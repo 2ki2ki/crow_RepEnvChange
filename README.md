@@ -4,9 +4,9 @@
 
 
 1. calc_indicator.R
-  - This script calculates each indicator from behavioural data.
-  - Behavioural data can be downloaded from the data repository(XXXX).
-  - Runnning this script, you can create two files, "group_data.csv" and "individual_data.csv".
+   - This script calculates each indicator from behavioural data.
+   - Behavioural data can be downloaded from the data repository(XXXX).
+   - Runnning this script, you can create two files, "group_data.csv" and "individual_data.csv".
 1. group_analysis.R
    - This script is for group-level analysis using "group_data.csv".
 1. individual_analysis.R
