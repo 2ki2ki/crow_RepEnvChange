@@ -14,5 +14,4 @@
 1. fig_maker.R
    - This script is for making the figures included in the paper.
 
-contact: yniki.ac@gmail.com
  
