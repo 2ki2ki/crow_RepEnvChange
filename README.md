@@ -10,10 +10,13 @@ preprint : https://www.biorxiv.org/content/10.1101/2025.02.12.637811v1
    - Behavioural data can be downloaded from the data repository(https://figshare.com/articles/dataset/crow_group_foraging_data/27124326/2?file=52200668).
    - Running this script, you can create two files, "group_data.csv" and "individual_data.csv".
 1. group_analysis.R
-   - This script is for group-level analysis using "group_data.csv".
-1. individual_analysis.R
+   - This script is for group-level analysis (long-term) using "group_data.csv".
+1. groupshort-term.R
+   - This script is for group-level analysis (short-term) using "group_data.csv".
+1. individual_analysis_glmm.R
    - This script is for individual-level analysis using "individual_data.csv".
-1. fig_maker.R
+1. fig.R
    - This script is for making the figures included in the paper.
-
+1. table.R
+   - This script is for making the tables included in the paper.
  
